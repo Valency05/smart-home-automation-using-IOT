@@ -1,0 +1,12 @@
+Arduino IDE : Primary development environment for programming ESP32 microcontrollers.
+Libraries:
+      * ESP32 libraries
+      * sensor-specific libraries
+      * communication protocols
+Development Tools:
+      * Serial monitors
+      * IDE plugins for debugging
+
+Optional: 
+      * Haarcascade Classifiers: Pre-trained models for object detection, including haarcascade_fullbody.xml. 
+      * OpenCV (cv2):  Library for computer vision task.
