@@ -10,3 +10,5 @@ Development Tools:
 Optional: 
       * Haarcascade Classifiers: Pre-trained models for object detection, including haarcascade_fullbody.xml. 
       * OpenCV (cv2):  Library for computer vision task.
+
+For virtual controlling download the app from playstore : "arduino bluetooth controller".
