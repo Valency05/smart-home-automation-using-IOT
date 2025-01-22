@@ -1,0 +1,21 @@
+Central component:
+  * ESP32 microcontroller
+
+Components:
+  * LED
+  * Resistor
+  * Jumper wires
+  * USB cable
+  * 12 volts battery
+
+Sensors:
+  * DHT11 sensors
+  * Gas/smoke detection sensor
+  * Ultrasonic sensor
+  * flame sensor
+
+Actuators:
+  * Servo motor
+  * fan
+  * buzzer
+  * motor driver
